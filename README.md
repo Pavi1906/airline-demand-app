@@ -8,24 +8,24 @@ This project was built as part of a technical evaluation requiring Python, web s
 
 ✨ Features
 
-1. Route Data Exploration**
+1. Route Data Exploration
 
 * Fetches global airline route data from the OpenFlights public dataset
 * Displays top origin–destination routes
 * Allows selecting any popular route for deeper exploration
 
-2. Market Demand Simulation**
+2. Market Demand Simulation
 
 * Generates realistic 36-month price trends
 * Simulates booking volume using seasonal patterns
 * Provides summary tables and visual charts (Plotly)
 
-3. Live Flight Data (AviationStack API)**
+3. Live Flight Data (AviationStack API)
 
 * Shows real-time flights for the selected route
 * Secure API integration using Streamlit Secrets
 
-4. Interactive Dashboard**
+4. Interactive Dashboard
 
 * Built with Streamlit
 * Includes route maps, filters, and intuitive layout
